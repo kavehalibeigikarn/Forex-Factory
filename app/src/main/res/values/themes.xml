@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.FFNews" parent="android:Theme.Material.NoActionBar" />
+</resources>
